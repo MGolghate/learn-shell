@@ -5,4 +5,3 @@
 
 1. How to write shell scripting
 2. Scripting
-3. Printing
